@@ -1,0 +1,7 @@
+.artist-container {
+    width: 100vw;
+    max-width: var(--max-width);
+    min-width: 320px;
+    box-sizing: border-box;
+    overflow: hidden
+}
